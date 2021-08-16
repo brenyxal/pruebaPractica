@@ -1,0 +1,9 @@
+com\pruebaMs\service\UsuarioService.class
+com\pruebaMs\model\UsuarioExterno.class
+com\pruebaMs\repository\UsuarioRepository.class
+com\pruebaMs\repository\UsuarioExternoRepository.class
+com\pruebaMs\service\UsuarioExternoService.class
+com\pruebaMs\PruebaPracticaApplication.class
+com\pruebaMs\controller\UsuarioContolador.class
+com\pruebaMs\controller\UsuarioExternoContolador.class
+com\pruebaMs\model\UsuarioInterno.class
